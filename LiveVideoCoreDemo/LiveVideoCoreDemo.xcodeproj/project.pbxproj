@@ -307,6 +307,7 @@
 				TargetAttributes = {
 					B782800E1C86C95E0057E507 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = P7FJXVD24P;
 					};
 					B78280271C86C95E0057E507 = {
 						CreatedOnToolsVersion = 7.2;
@@ -525,7 +526,7 @@
 				);
 				INFOPLIST_FILE = LiveVideoCoreDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.live.videocore.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bhl.live.videocore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -542,7 +543,7 @@
 				);
 				INFOPLIST_FILE = LiveVideoCoreDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.live.videocore.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bhl.live.videocore;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

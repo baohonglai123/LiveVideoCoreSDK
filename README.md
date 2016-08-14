@@ -1,3 +1,5 @@
+首次fork by bhl
+
 # LiveVideoCoreSDK 
 基于IOS的手机视频直播SDK.
 ============================
